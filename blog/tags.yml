@@ -1,0 +1,14 @@
+hydroponics:
+  label: hydroponics
+  permalink: /hydroponics
+  description: hydroponics tag description
+
+succulents:
+  label: succulents
+  permalink: /succulents
+  description: succulents tag description
+
+hpg:
+  label: hpg
+  permalink: /hpg
+  description: hpg tag description
