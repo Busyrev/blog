@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://busyrev.github.io/blog/blog/blog</id>
+    <title>My Site Blog</title>
+    <updated>2025-08-27T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://busyrev.github.io/blog/blog/blog"/>
+    <subtitle>My Site Blog</subtitle>
+    <icon>https://busyrev.github.io/blog/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Эксперимент с эчивериями]]></title>
+        <id>https://busyrev.github.io/blog/blog/blog/echiveria-experiment</id>
+        <link href="https://busyrev.github.io/blog/blog/blog/echiveria-experiment"/>
+        <updated>2025-08-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[test]]></summary>
+        <content type="html"><![CDATA[<p>test</p>
+<p><img decoding="async" loading="lazy" alt="test" src="https://busyrev.github.io/blog/assets/images/echiveria-1b4c405bf9cf3b6b44d34858a340d0c1.jpg" width="2421" height="2346" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="test" src="https://busyrev.github.io/blog/assets/images/hpg_1-1-1-3c09d0dfaf0d8c274d118fd878da3b79.jpg" width="789" height="860" class="img_ev3q"></p>
+<p>test</p>]]></content>
+        <author>
+            <name>Mike Busyrev</name>
+            <uri>https://t.me/aquahawk</uri>
+        </author>
+        <category label="hydroponics" term="hydroponics"/>
+        <category label="succulents" term="succulents"/>
+        <category label="hpg" term="hpg"/>
+    </entry>
+</feed>
