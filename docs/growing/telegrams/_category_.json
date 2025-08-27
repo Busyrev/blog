@@ -1,0 +1,8 @@
+{
+  "label": "Телеграм каналы",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Телеграм каналы"
+  }
+}
