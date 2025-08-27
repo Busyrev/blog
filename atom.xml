@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://busyrev.github.io/blog/blog/blog</id>
+    <id>https://busyrev.github.io/blog</id>
     <title>My Site Blog</title>
     <updated>2025-08-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://busyrev.github.io/blog/blog/blog"/>
+    <link rel="alternate" href="https://busyrev.github.io/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://busyrev.github.io/blog/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Эксперимент с эчивериями]]></title>
-        <id>https://busyrev.github.io/blog/blog/blog/echiveria-experiment</id>
-        <link href="https://busyrev.github.io/blog/blog/blog/echiveria-experiment"/>
+        <id>https://busyrev.github.io/blog/echiveria-experiment</id>
+        <link href="https://busyrev.github.io/blog/echiveria-experiment"/>
         <updated>2025-08-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[test]]></summary>
         <content type="html"><![CDATA[<p>test</p>

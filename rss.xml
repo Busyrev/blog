@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>My Site Blog</title>
-        <link>https://busyrev.github.io/blog/blog/blog</link>
+        <link>https://busyrev.github.io/blog</link>
         <description>My Site Blog</description>
         <lastBuildDate>Wed, 27 Aug 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Эксперимент с эчивериями]]></title>
-            <link>https://busyrev.github.io/blog/blog/blog/echiveria-experiment</link>
-            <guid>https://busyrev.github.io/blog/blog/blog/echiveria-experiment</guid>
+            <link>https://busyrev.github.io/blog/echiveria-experiment</link>
+            <guid>https://busyrev.github.io/blog/echiveria-experiment</guid>
             <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[test]]></description>
             <content:encoded><![CDATA[<p>test</p>
