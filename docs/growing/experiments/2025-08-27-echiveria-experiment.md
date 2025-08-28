@@ -11,7 +11,7 @@ title: 2025-08-27 Эксперимент с эчивериями
 <!-- truncate -->
 
 ## Видео про удобрения
-[Георгий](/growing/personalies/Aristov.md) : https://www.youtube.com/watch?v=AnDZV_iDY5E  
+[Георгий](/growing/personalies/aristov.md) : https://www.youtube.com/watch?v=AnDZV_iDY5E  
 https://www.youtube.com/watch?v=PgbN9jzgGKc  
 краткая выжимка: NPK либо 1:1:1 либо даже азота меньше, PH 8-10.  
 NPK мы возьмём по единичке, а пот ph выправлять не будем, но замерим какой получится
