@@ -20,6 +20,12 @@
       "/blog/docs/growing/experiments/2025-08-27-echiveria-experiment",
       "/blog/docs/growing/mixes/2025-08-08-meklon-fruiting"
     ],
+    "/blog/docs/growing/mixes/2025-08-08-meklon-start": [
+      "/blog/docs/growing/experiments/2025-08-27-echiveria-experiment"
+    ],
+    "/blog/docs/growing/mixes/2025-08-08-meklon-fruiting": [
+      "/blog/docs/growing/experiments/2025-08-27-echiveria-experiment"
+    ],
     "/blog/docs/growing/telegrams/lemonwiki": [
       "/blog/docs/growing/experiments/2025-08-27-echiveria-experiment"
     ],
