@@ -1,6 +1,5 @@
 ---
 sidebar_position: 1
-slug: aristov
 title: Георгий Аристов
 ---
 https://raritet-plants.ru/collection/  

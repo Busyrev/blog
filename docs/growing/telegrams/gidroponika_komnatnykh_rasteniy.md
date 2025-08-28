@@ -1,6 +1,5 @@
 ---
 sidebar_position: 4
-slug: gidroponika_komnatnykh_rasteniy
 title: Гидропоника комнатных растений
 ---
 
