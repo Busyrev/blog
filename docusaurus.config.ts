@@ -125,7 +125,7 @@ const config: Config = {
       //     ],
       //   },
       // ],
-      copyright: `Copyright © 2025-${new Date().getFullYear()} Бусырев михаил. Built with Docusaurus.`,
+      copyright: `Copyright © 2025-${new Date().getFullYear()} Бусырев Михаил. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
