@@ -1,14 +1,15 @@
 {
   "links": {
+    "/blog/docs/growing/personalies/aristov": [
+      "/blog/docs/growing/collection/portulacaria-afra",
+      "/blog/docs/growing/experiments/2025-08-27-echiveria-experiment"
+    ],
     "/blog/docs/growing/substrat/lechuza-pon": [
       "/blog/docs/growing/collection/portulacaria-afra",
       "/blog/docs/growing/experiments/2025-08-27-echiveria-experiment",
       "/blog/docs/growing/substrat/lechuza-pon-turf"
     ],
     "/blog/docs/growing/substrat/lechuza-pon-turf": [
-      "/blog/docs/growing/experiments/2025-08-27-echiveria-experiment"
-    ],
-    "/blog/docs/growing/personalies/aristov": [
       "/blog/docs/growing/experiments/2025-08-27-echiveria-experiment"
     ],
     "/blog/docs/growing/profiles/pepper-meklon-start": [
