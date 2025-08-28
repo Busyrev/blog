@@ -1,0 +1,8 @@
+{
+  "label": "Коллекция",
+  "position": 150,
+  "link": {
+    "type": "generated-index",
+    "description": "Эксперименты"
+  }
+}
