@@ -63,6 +63,7 @@ const config: Config = {
     ],
   ],
   plugins: [
+    '@busyrev/docusaurus-plugin-backlinks',
     ],
   themeConfig: {
     // Replace with your project's social card

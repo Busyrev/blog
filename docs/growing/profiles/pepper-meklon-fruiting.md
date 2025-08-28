@@ -1,0 +1,7 @@
+---
+sidebar_position: 2
+title: Перец Meklon плодоношение NPK 23-16-40, EC 2.348
+---
+
+от [Meklon](/growing/personalies/Meklon.md): https://docs.google.com/spreadsheets/d/1JWcV73mhq-c_4pitLs910y8fTZpDpOCc  
+![перец плодоношение](/img/2025-08-27-echiveria-experiment/pepper-fruiting.png)

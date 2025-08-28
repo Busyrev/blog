@@ -24,13 +24,11 @@ NPK мы возьмём по единичке, а пот ph выправлять
 
 ### Три профиля
 #### 1. Чистый осмос
-#### 2. Перец стартовый 7-8-10 с EC < 0.827
-от [Meklon](/growing/personalies/Meklon.md): https://docs.google.com/spreadsheets/d/1JWcV73mhq-c_4pitLs910y8fTZpDpOCc  
-![перец стартовый](/img/2025-08-27-echiveria-experiment/pepper-start.png)  
+#### 2. Перец стартовый 7-8-10 с EC 0.827
+[стратовый профиль Меклона](docs/growing/profiles/pepper-meklon-start.md)
 
 #### 3. Перец плодоношение NPK 23-16-40, EC 2.348
-от [Meklon](/growing/personalies/Meklon.md): https://docs.google.com/spreadsheets/d/1JWcV73mhq-c_4pitLs910y8fTZpDpOCc  
-![перец плодоношение](/img/2025-08-27-echiveria-experiment/pepper-fruiting.png)
+[профиль плодоношение Меклона](docs/growing/profiles/pepper-meklon-fruiting.md)
 
 #### Отказался идеи от кастомного NPK 8-8-8
 <details>
