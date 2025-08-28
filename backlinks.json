@@ -1,0 +1,33 @@
+{
+  "links": {
+    "/blog/docs/growing/substrat/lechuza-pon": [
+      "/blog/docs/growing/experiments/2025-08-27-echiveria-experiment",
+      "/blog/docs/growing/substrat/lechuza-pon-turf"
+    ],
+    "/blog/docs/growing/substrat/lechuza-pon-turf": [
+      "/blog/docs/growing/experiments/2025-08-27-echiveria-experiment"
+    ],
+    "/blog/docs/growing/personalies/aristov": [
+      "/blog/docs/growing/experiments/2025-08-27-echiveria-experiment"
+    ],
+    "/blog/docs/growing/profiles/pepper-meklon-start": [
+      "/blog/docs/growing/experiments/2025-08-27-echiveria-experiment"
+    ],
+    "/blog/docs/growing/profiles/pepper-meklon-fruiting": [
+      "/blog/docs/growing/experiments/2025-08-27-echiveria-experiment"
+    ],
+    "/blog/docs/growing/telegrams/lemonwiki": [
+      "/blog/docs/growing/experiments/2025-08-27-echiveria-experiment"
+    ],
+    "/blog/docs/growing/personalies/meklon": [
+      "/blog/docs/growing/profiles/pepper-meklon-fruiting",
+      "/blog/docs/growing/profiles/pepper-meklon-start"
+    ]
+  },
+  "descriptions": {
+    "/blog/docs/growing/experiments/2025-08-27-echiveria-experiment": "2025-08-27 Эксперимент с эчивериями",
+    "/blog/docs/growing/profiles/pepper-meklon-fruiting": "Перец Meklon плодоношение NPK 23-16-40, EC 2.348",
+    "/blog/docs/growing/profiles/pepper-meklon-start": "Перец Meklon стартовый 7-8-10, EC 0.827",
+    "/blog/docs/growing/substrat/lechuza-pon-turf": "lechuza pon / торф"
+  }
+}
