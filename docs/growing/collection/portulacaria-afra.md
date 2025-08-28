@@ -1,8 +1,8 @@
 ---
 title: Portulacaria afra
 ---
-получена в подарок за заказ от 2021-11-27  
-растёт с чистой [lechuza pon](/growing/substrat/lechuza-pon.md)
+получена в подарок от [Георгия](/growing/personalies/aristov.md) за заказ от 2021-11-27  
+растёт с чистой [lechuza pon](/growing/substrat/lechuza-pon.md)  
 
 <figure>
     ![2022-01-07](/img/collection/2022-01-07-portulacaria-arfa.jpg)  
