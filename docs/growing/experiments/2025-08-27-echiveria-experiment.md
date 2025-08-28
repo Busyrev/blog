@@ -37,13 +37,7 @@ NPK мы возьмём по единичке, а пот ph выправлять
   ![кастомный](/img/2025-08-27-echiveria-experiment/hpg_1-1-1.jpg)  
 </details>
 
-
-
-
 ![echiveria](/img/2025-08-27-echiveria-experiment/echiveria.jpg)
-
-##### Кастомный 1-1-1
-
 
 
 Обсуждение в [lemonwiki](growing/telegrams/lemonwiki.md) [https://t.me/lemonwiki/206568/331808](https://t.me/lemonwiki/206568/331808)
