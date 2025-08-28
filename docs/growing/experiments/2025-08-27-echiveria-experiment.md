@@ -3,15 +3,47 @@ slug: 2025-08-27-echiveria-experiment
 title: 2025-08-27 Эксперимент с эчивериями
 ---
 # 2025-08-27 Эксперимент с эчивериями
+Я поливаю суккуленты чистым осмосом без реминерализации, жесткостью в среднем 10ppm.  
+До сего момента я вообще не удобрял суккуленты, т.е. они годы стояли в грунте с поливом чистым дистиллятом, грунт либо чистая [lechuza pon](/growing/substrat/lechuza-pon.md), либо [lechuza pon / торф](/growing/substrat/lechuza-pon-turf.md)
 
-2025-08-27 Выбрано три листка, на двух уже есть и корни и розетки, на одном только корешок.  
-Посажены в [lechuza pon](/growing/substrat/lechuza-pon.md)
+## Цель экперимента
+Выяснить, можно ли сделать раствор который использовать на постоянку для полива вместо чистого осмоса. Подход будет как к гидропонике, потому что чистая лечуза считай и есть субстрат для гидропоники, хотя понятно что суккуленты будут просыхать гораздо дольше.
 
 <!-- truncate -->
 
-![test](/img/2025-08-27-echiveria-experiment/echiveria.jpg)
-![test](/img/2025-08-27-echiveria-experiment/hpg_1-1-1.jpg)
+## Видео про удобрения
+[Георгий](/growing/personalies/Aristov.md) : https://www.youtube.com/watch?v=AnDZV_iDY5E  
+https://www.youtube.com/watch?v=PgbN9jzgGKc  
+краткая выжимка: NPK либо 1:1:1 либо даже азота меньше, PH 8-10.  
+NPK мы возьмём по единичке, а пот ph выправлять не будем, но замерим какой получится
+
+## Дизайн эксперимента
+2025-08-27 Выбрано три листка, на двух уже есть и корни и розетки, на одном только корешок.  
+Посажены в [lechuza pon](/growing/substrat/lechuza-pon.md)  
+Листики будут посажены в отдельные горшки, будут поливаться раз в неделю до обильного вытекания раствора из субстрата в поддон. Поддон широкий так что застоя воды происходить не будет.  
+
+### Три профиля
+#### 1. Чистый осмос
+#### 2. Перец стартовый 7-8-10 с EC < 0.827
+от [Meklon](/growing/personalies/Meklon.md): https://docs.google.com/spreadsheets/d/1JWcV73mhq-c_4pitLs910y8fTZpDpOCc  
+![перец стартовый](/img/2025-08-27-echiveria-experiment/pepper-start.png)  
+
+#### 3. Перец плодоношение NPK 23-16-40, EC 2.348
+от [Meklon](/growing/personalies/Meklon.md): https://docs.google.com/spreadsheets/d/1JWcV73mhq-c_4pitLs910y8fTZpDpOCc  
+![перец плодоношение](/img/2025-08-27-echiveria-experiment/pepper-fruiting.png)
+
+#### Отказался идеи от кастомного NPK 8-8-8
+<details>
+  ![кастомный](/img/2025-08-27-echiveria-experiment/hpg_1-1-1.jpg)  
+</details>
+
+
+
+
+![echiveria](/img/2025-08-27-echiveria-experiment/echiveria.jpg)
+
+##### Кастомный 1-1-1
+
+
 
 Обсуждение в [lemonwiki](growing/telegrams/lemonwiki.md) [https://t.me/lemonwiki/206568/331808](https://t.me/lemonwiki/206568/331808)
-
-test
