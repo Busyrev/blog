@@ -8,6 +8,7 @@ export default function DocPaginatorWrapper(props) {
     const location = useLocation();
 
 	return (<>
+        <br />
         Backlinks: <br />
         <Backlink documentPath={location.pathname} />
 	</>);
