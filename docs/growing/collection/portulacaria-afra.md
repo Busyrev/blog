@@ -6,7 +6,7 @@ title: Portulacaria afra
 Растёт с чистой [lechuza pon](/growing/substrat/lechuza-pon.md)  
 
 ## 2022-01-07
-![2022-01-07](/img/collection/2022-01-07-portulacaria-arfa.jpg)  
+![2022-01-07](img/2022-01-07-portulacaria-arfa.jpg)  
 
 ## 2025-08-28
-![2025-08-28](/img/collection/2025-08-28-portulacaria-arfa.jpg)  
+![2025-08-28](img/2025-08-28-portulacaria-arfa.jpg)  
