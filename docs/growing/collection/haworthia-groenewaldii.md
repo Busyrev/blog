@@ -1,6 +1,7 @@
 ---
 title: Haworthia groenewaldii
 ---
+Она же хавортия грюнвальди
 
 ## 2025-08-10
 Куплена на ozon за 678 рублей, посажена в чистую [lechuza pon](/growing/substrat/lechuza-pon.md)  
