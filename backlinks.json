@@ -1,13 +1,14 @@
 {
   "links": {
-    "/blog/docs/growing/personalies/aristov": [
-      "/blog/docs/growing/collection/portulacaria-afra",
-      "/blog/docs/growing/experiments/2025-08-27-echiveria-experiment"
-    ],
     "/blog/docs/growing/substrat/lechuza-pon": [
+      "/blog/docs/growing/collection/haworthia-groenewaldii",
       "/blog/docs/growing/collection/portulacaria-afra",
       "/blog/docs/growing/experiments/2025-08-27-echiveria-experiment",
       "/blog/docs/growing/substrat/lechuza-pon-turf"
+    ],
+    "/blog/docs/growing/personalies/aristov": [
+      "/blog/docs/growing/collection/portulacaria-afra",
+      "/blog/docs/growing/experiments/2025-08-27-echiveria-experiment"
     ],
     "/blog/docs/growing/substrat/lechuza-pon-turf": [
       "/blog/docs/growing/experiments/2025-08-27-echiveria-experiment"
@@ -35,6 +36,7 @@
     ]
   },
   "descriptions": {
+    "/blog/docs/growing/collection/haworthia-groenewaldii": "Haworthia groenewaldii",
     "/blog/docs/growing/collection/portulacaria-afra": "Portulacaria afra",
     "/blog/docs/growing/experiments/2025-08-27-echiveria-experiment": "2025-08-27 Эксперимент с эчивериями",
     "/blog/docs/growing/mixes/2025-08-08-meklon-fruiting": "2025-08-08 Перец Meklon плодоношение NPK 23-16-40, EC 2.348",
