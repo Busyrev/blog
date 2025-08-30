@@ -43,6 +43,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
+          numberPrefixParser: false,
         },
         // blog: {
         //   showReadingTime: true,
