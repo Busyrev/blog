@@ -1,5 +1,13 @@
 {
   "links": {
+    "/blog/docs/tech/growing-devices/lights": [
+      "/blog/docs/growing/collection/about-collection"
+    ],
+    "/blog/docs/growing/profiles/pepper-meklon-start": [
+      "/blog/docs/growing/collection/about-collection",
+      "/blog/docs/growing/experiments/2025-08-05-lithops",
+      "/blog/docs/growing/experiments/2025-08-27-echiveria-experiment"
+    ],
     "/blog/docs/growing/substrat/lechuza-pon": [
       "/blog/docs/growing/collection/haworthia-groenewaldii",
       "/blog/docs/growing/collection/haworthia-retusa",
@@ -14,18 +22,7 @@
     "/blog/docs/growing/substrat/lechuza-pon-turf": [
       "/blog/docs/growing/experiments/2025-08-27-echiveria-experiment"
     ],
-    "/blog/docs/growing/profiles/pepper-meklon-start": [
-      "/blog/docs/growing/experiments/2025-08-27-echiveria-experiment",
-      "/blog/docs/growing/mixes/2025-08-08-meklon-start"
-    ],
     "/blog/docs/growing/profiles/pepper-meklon-fruiting": [
-      "/blog/docs/growing/experiments/2025-08-27-echiveria-experiment",
-      "/blog/docs/growing/mixes/2025-08-08-meklon-fruiting"
-    ],
-    "/blog/docs/growing/mixes/2025-08-08-meklon-start": [
-      "/blog/docs/growing/experiments/2025-08-27-echiveria-experiment"
-    ],
-    "/blog/docs/growing/mixes/2025-08-08-meklon-fruiting": [
       "/blog/docs/growing/experiments/2025-08-27-echiveria-experiment"
     ],
     "/blog/docs/growing/telegrams/lemonwiki": [
@@ -37,12 +34,12 @@
     ]
   },
   "descriptions": {
+    "/blog/docs/growing/collection/about-collection": "О коллекции",
     "/blog/docs/growing/collection/haworthia-groenewaldii": "Haworthia groenewaldii",
     "/blog/docs/growing/collection/haworthia-retusa": "Haworthia retusa",
     "/blog/docs/growing/collection/portulacaria-afra": "Portulacaria afra",
+    "/blog/docs/growing/experiments/2025-08-05-lithops": "2025-08-05 литопсы из семян",
     "/blog/docs/growing/experiments/2025-08-27-echiveria-experiment": "2025-08-27 Эксперимент с эчивериями",
-    "/blog/docs/growing/mixes/2025-08-08-meklon-fruiting": "2025-08-08 Перец Meklon плодоношение NPK 23-16-40, EC 2.348",
-    "/blog/docs/growing/mixes/2025-08-08-meklon-start": "2025-08-08 Перец Meklon стартовый 7-8-10, EC 0.827",
     "/blog/docs/growing/profiles/pepper-meklon-fruiting": "Перец Meklon плодоношение NPK 23-16-40, EC 2.348",
     "/blog/docs/growing/profiles/pepper-meklon-start": "Перец Meklon стартовый 7-8-10, EC 0.827",
     "/blog/docs/growing/substrat/lechuza-pon-turf": "lechuza pon / торф"
