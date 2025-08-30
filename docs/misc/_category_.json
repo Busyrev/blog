@@ -1,0 +1,8 @@
+{
+  "label": "Прочее",
+  "position": 10000,
+  "link": {
+    "type": "generated-index",
+    "description": "О всяком"
+  }
+}
