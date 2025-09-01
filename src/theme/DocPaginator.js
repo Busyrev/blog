@@ -1,7 +1,7 @@
 import React from "react";
 import { useLocation } from '@docusaurus/router';
 import { useColorMode } from "@docusaurus/theme-common";
-import { Backlink } from "@busyrev/docusaurus-plugin-backlinks/components";
+import { Backlink } from "@koroligor/docusaurus-plugin-backlinks/components";
 
 export default function DocPaginatorWrapper(props) {
 	const { colorMode } = useColorMode();
