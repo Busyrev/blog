@@ -44,6 +44,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           numberPrefixParser: false,
+          routeBasePath: '/'
         },
         // blog: {
         //   showReadingTime: true,
